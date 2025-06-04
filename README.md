@@ -1,4 +1,12 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Article Search App
+
+This is a simple **Next.js + Tailwind CSS** application that allows users to search through a list of articles. It includes:
+
+- Real-time search
+- Case-insensitive filtering
+- Keyword highlighting
+- Clean, minimal UI
+
 
 ## Getting Started
 
